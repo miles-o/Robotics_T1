@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
+//if you try to run this it might not work because of the math library, just use the zip if it doesnt work
+
 double myAdd(int a, int b) {
   return a + b;
 }
